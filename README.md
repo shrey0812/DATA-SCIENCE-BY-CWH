@@ -1,58 +1,72 @@
-# 📊 NumPy – Data Analysis & Numerical Computing
+# 📊 Data Science with CodeWithHarry – Complete Learning Journey
 
-This module focuses on mastering **NumPy**, the core Python library for numerical computations. It provides a hands-on introduction to arrays, mathematical operations, broadcasting, and more — all through practical notebooks.
-
----
-
-## 🧠 Topics Covered
-
-1. **Why Use NumPy**  
-   Learn why NumPy is essential for data science and how it outperforms Python lists.
-
-2. **Creating NumPy Arrays**  
-   Practice creating arrays from lists, using `arange()`, `linspace()`, and other built-in functions.
-
-3. **Indexing and Slicing**  
-   Understand how to access and modify elements using slicing, boolean indexing, and fancy indexing.
-
-4. **Multidimensional Indexing & Axis**  
-   Dive into 2D and 3D arrays, and learn how operations vary across different axes.
-
-5. **Data Types in NumPy**  
-   Explore data types (`dtype`), type conversions, and memory efficiency.
-
-6. **Broadcasting in NumPy**  
-   Learn how NumPy handles arithmetic operations between arrays of different shapes.
-
-7. **Built-in Mathematical Functions**  
-   Use powerful mathematical functions like `sum()`, `mean()`, `sqrt()`, `std()`, and more.
+This repository tracks my complete hands-on implementation of the **CodeWithHarry Data Science course**. Each module is structured into its own folder with dedicated notebooks, practice exercises, and concept summaries. The goal: to not just watch — but build, break, and deeply understand every topic.
 
 ---
 
-## 📁 Folder Contents
+## 📚 Course Overview
 
-This folder contains multiple Jupyter notebooks, each corresponding to one of the lessons above. Notebooks include:
-
-- 🌟 Clear explanations with examples
-- 🧪 Practice exercises
-- 🔍 Notes on performance tips and gotchas
+> [🎥 Course Link](https://www.codewithharry.com/courses)  
+> 🧠 Duration: 15+ hours  
+> 🎯 Mode: Project-Based + Conceptual Learning  
+> 👨‍💻 Format: Jupyter Notebooks, Python Scripts, SQL Queries
 
 ---
 
-## ✅ Key Takeaways
+## 🗂️ Repository Structure
 
-- Efficient array manipulation using NumPy’s vectorized operations
-- How broadcasting simplifies complex calculations
-- The importance of axis-based operations in data pipelines
+| Folder | Module Name                                | Status        |
+|--------|--------------------------------------------|---------------|
+| 03-NumPy              | Numerical Computing with NumPy       | 🔄 In Progress |
+| 04-Pandas             | Data Analysis with Pandas            | ⏳ Not Started |
+| 05-Data-Visualization | Matplotlib & Seaborn                 | ⏳ Not Started |
+| 06-Data-Collection    | Web Scraping & Data Input             | ⏳ Not Started |
+| 07-SQL                | SQL for Data Science                  | ⏳ Not Started |
+| 08-Probability        | Stats & Probability                   | ⏳ Not Started |
+| 09-Distributions      | Probability Distributions & CLT       | ⏳ Not Started |
+| 10-Machine-Learning   | ML Foundations & Scikit-Learn         | ⏳ Not Started |
+| 11-ML-Types           | Supervised, Unsupervised, RL          | ⏳ Not Started |
+
+---
+
+## 🔥 Highlights
+
+- 🧠 **Project-Based Learning**: Building mini tools and systems as you learn
+- 📈 **Visualization**: Charting, bar graphs, heatmaps, histograms
+- 📊 **Data Analysis**: Pandas, NumPy, real dataset manipulation
+- 🧹 **Cleaning & Preprocessing**: Handling nulls, filtering, transforming data
+- 📦 **SQL & Web Scraping**: Working with relational data + collecting your own
+
+---
+
+## 💡 Why This Repo Exists
+
+This repo is a live demonstration of my journey to become a **real-world-ready Data Scientist**, not just someone who watches tutorials. Each module reflects practical understanding and clean code principles.
+
+---
+
+## 🚀 Projects Built So Far
+
+| Project Name         | Description                                                |
+|----------------------|------------------------------------------------------------|
+| Coders of Delhi      | Social network-style recommendations & content feed logic |
+| NumPy Analysis (WIP) | Efficient numerical computing and vectorized operations    |
 
 ---
 
 ## 📌 Notes
 
-- Code is written in Python 3 using Jupyter Notebooks
-- Try modifying examples to explore edge cases and better understand concepts
-- This module is part of a full Data Science roadmap
+- Each folder contains its own README.md summarizing concepts, key takeaways, and file descriptions.
+- Commit messages are clean and versioned by module
+- Weekly progress logs included where applicable
 
 ---
 
-> ✍️ *This README is part of my learning journey through the CodeWithHarry Data Science course. It reflects practical application, experimentation, and concept clarity.*
+## 🔗 Connect with Me
+
+- 🌐 [LinkedIn – Shrey Gupta](https://www.linkedin.com/in/shrey-gupta-abba44242/)
+- 💻 [GitHub – @shrey0812](https://github.com/shrey0812)
+
+---
+
+> ✍️ *This repository will be continuously updated as I progress through the course. Stay tuned for more modules, visualizations, and mini-projects.*
