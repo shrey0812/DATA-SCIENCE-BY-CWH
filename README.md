@@ -17,8 +17,8 @@ This repository tracks my complete hands-on implementation of the **CodeWithHarr
 
 | Folder | Module Name                                | Status        |
 |--------|--------------------------------------------|---------------|
-| 03-NumPy              | Numerical Computing with NumPy       | 🔄 In Progress |
-| 04-Pandas             | Data Analysis with Pandas            | ⏳ Not Started |
+| 03-NumPy              | Numerical Computing with NumPy       | ✅ Completed  |
+| 04-Pandas             | Data Analysis with Pandas            | 🔄 In Progress  |
 | 05-Data-Visualization | Matplotlib & Seaborn                 | ⏳ Not Started |
 | 06-Data-Collection    | Web Scraping & Data Input             | ⏳ Not Started |
 | 07-SQL                | SQL for Data Science                  | ⏳ Not Started |
